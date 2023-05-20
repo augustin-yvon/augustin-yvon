@@ -22,5 +22,5 @@ Vous pouvez me contacter via :
 - Email : augustin.yvon@laplateforme.io
 - LinkedIn : https://www.linkedin.com/in/augustin-yvon/ 
 
-N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou si vous souhaitez simplement discuter !
+N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou si vous souhaitez simplement discuter ! 
 Merci d'avoir pris le temps de lire ma présentation. J'attends avec impatience d'échanger avec vous.
