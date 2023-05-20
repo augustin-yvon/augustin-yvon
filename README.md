@@ -65,7 +65,7 @@ Passionné d'informatique depuis petit, je suis actuellement étudiant en dével
 </div>
 <br>
 
-Vous pouvez aussinme contacter par mail : augustin.yvon@laplateforme.io
+Vous pouvez aussi me contacter par mail : augustin.yvon@laplateforme.io
 
 N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou si vous souhaitez simplement discuter ! 
 Merci d'avoir pris le temps de lire ma présentation. J'attends avec impatience d'échanger avec vous.
