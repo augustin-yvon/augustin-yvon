@@ -1,4 +1,4 @@
-Augustin Yvon
+# Augustin Yvon
 
 ## À propos de moi
 Passionné d'informatique depuis petit, je suis actuellement étudiant en développement web à la Plateforme. Je stock ici mes projets personnelles et professionnelles afin de partager mes compétences.
