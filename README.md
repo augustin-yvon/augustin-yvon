@@ -16,10 +16,6 @@ Passionné d'informatique depuis petit, je suis actuellement étudiant en dével
 - Javascript
 - PHP
 
-## Projets récents
-- [Voyage](https://augustin-yvon.github.io/tahiti/index.html) : Une brève description de votre projet et de votre rôle.
-- [Fansite](https://augustin-yvon.github.io/portfolio/fansite/index.html) : Site web de fans contenant des actualité, réalisations, événements passés/à venir...
-
 ## Contact
 Vous pouvez me contacter via :
 
