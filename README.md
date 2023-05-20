@@ -5,7 +5,7 @@ Passionné d'informatique depuis petit, je suis actuellement étudiant en dével
 
 ### Aqcuises
 
-<table><tr><td valign="top" width="33%">
+<table style="margin: auto;"><tr><td valign="top" width="33%">
 
   
 ### Frontend  
