@@ -3,53 +3,23 @@ Passionné d'informatique depuis petit, je suis actuellement étudiant en dével
 
 ## Compétences techniques
 
-### Aqcuises
-
-<table style="margin: auto;"><tr><td valign="top" width="33%">
-
   
-### Frontend  
-<div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-</div>
-<div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-</div>
+<b>Front-end</b>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<br><br>
+<b>Back-end</b>
+<br>
+<img src="https://skillicons.dev/icons?i=python,php" />
+<br><br>
+<b>Databases</b>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<br><br>
+<b>Tools</b>
+<br>
+<img src="https://skillicons.dev/icons?i=figma,linux" /><br>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  <img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-transparent-svg-vector-bie-supply-13.png" alt="MySQL" height="50" />
-</div>
-
-</td></tr></table>
-
-### En apprentissages
-
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-</div>
-
-</td></tr></table>
-   
 ## Contact <br> 
 
 <br>
