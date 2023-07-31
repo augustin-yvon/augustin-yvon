@@ -6,7 +6,7 @@ Passionné d'informatique depuis petit, je suis actuellement étudiant en dével
   
 <b>Front-end</b>
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 <br><br>
 <b>Back-end</b>
 <br>
